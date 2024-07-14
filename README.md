@@ -1,3 +1,3 @@
-                                        Handwritten Digit Recognition in CNN
+                        Handwritten Digit Recognition in CNN
 
-This repository contains Convolutional Neural Network based handwritten digit recognition model. This model is based on minist dataset,after trainning the cnn based model it achieved trainning accuracy of around 98% and validation accuracy of 97%.  
+This repository contains Convolutional Neural Network based handwritten digit recognition model. This model is trained on minist dataset. The CNN based model has achieved trainning accuracy of around 98% and validation accuracy of 97%.  
